@@ -8,7 +8,7 @@ Use this lightweight library to easily / quickly integrate QR code, bar code, an
 -   Supports scanning codes from files or default cameras on smartphones.
 
 -   **<u>Recently Added</u>** Supports bar code scanning in various formats.
-
+stuff
 -   Supports two kinds of APIs
     -   `Html5QrcodeScanner` — End-to-end scanner with UI, integrate with less than ten lines of code.
     -   `Html5Qrcode` — Powerful set of APIs you can use to build your UI without worrying about camera setup, handling permissions, reading codes, etc.
